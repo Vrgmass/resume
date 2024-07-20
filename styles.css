@@ -34,7 +34,7 @@ h2{font-family: var(--heading-font); margin-top: 10px; letter-spacing: 3px; font
 h4{margin: 0px; color: var(--lightblack); margin-top: 10px;}
 ul{margin-left: -40px; margin-bottom: 40px;}
 ul li{list-style: none; float: left; position: relative;}
-ul li img{width: 40px; padding-right: 15px;}
+ul li img{width: 40px; padding-right: 20px;}
 ul li span{position: absolute; bottom: -12px; left: 5px; font-size: 11px;}
 .rightside-content{padding: 50px;}
 h1{font-size: 50px; font-family: var(--normal-font); font-weight: normal;
